@@ -1,8 +1,10 @@
+fastapi
 uvicorn
-feedparser
-requests
-fastapi[all]
 sqlalchemy
-passlib
 psycopg2-binary
+pydantic
+passlib[bcrypt]
 python-dotenv
+aiohttp
+feedparser
+httpx
