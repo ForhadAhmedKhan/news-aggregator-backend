@@ -1,0 +1,8 @@
+uvicorn
+feedparser
+requests
+fastapi[all]
+sqlalchemy
+passlib
+psycopg2-binary
+python-dotenv
